@@ -1,9 +1,9 @@
 # QAChallengesFileReader
 ## **QA Engineer Challenges**  ### 
 
-Ensure you have downloaded the necessary C# compiler and have output access to a terminal
-Change file pathing where indicated to navigate to the folder required to be read
-Code was written on the assumption that contents of the given text files are all integers
+Ensure you have downloaded the necessary C# compiler and have output access to a terminal.
+Be sure to change file pathing where indicated to navigate to the folder required to be read.
+Code was written on the assumption that contents of the given text files are all integers.
 
 
 
